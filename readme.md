@@ -19,7 +19,7 @@ Data Augmentation ist ein legitimer Ansatz, um Machine Learning zu ermöglichen.
 
 1. Klone dieses Repository:
     ```bash
-    git clone https://github.com/dein-benutzername/uberleitbogen-synthese.git
+    git clone https://github.com/goldikolb/synthetische_ueberleitungsantraege.git
     cd uberleitbogen-synthese
     ```
 
