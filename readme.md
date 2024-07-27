@@ -52,6 +52,10 @@ Data Augmentation ist ein legitimer Ansatz, um Machine Learning zu ermöglichen.
 
 [![Watch the video](https://img.youtube.com/vi/L3S8_Gj5t0M/default.jpg)](https://youtu.be/L3S8_Gj5t0M)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=L3S8_Gj5t0M" target="_blank">
+ <img src="http://img.youtube.com/vi/L3S8_Gj5t0M/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 ## Autor
 Christian Kolb
 
